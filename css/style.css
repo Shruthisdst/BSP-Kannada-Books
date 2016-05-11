@@ -33,6 +33,7 @@ p{
 }
 .text{
 	margin-left: 15em;
+	font-size: 0.9em;
 }
 .shloka{
 	font-size: 0.9em;
@@ -41,6 +42,7 @@ p{
 .gap{
 	float: right;
 	padding-right: 30em;
+	font-size: 0.9em;
 }
 .textRight{
 	font-size: 0.85em;
